@@ -41,7 +41,7 @@ body {
     color: #777777;
     background-color: white;
     /* <!-- //insert background pattern here//  --> */
-    background-image: url("assets/Images/email.png");
+    background-image: url("./Assets/Images/email.png");
 }
 /* inserting portfolio css */
 {
